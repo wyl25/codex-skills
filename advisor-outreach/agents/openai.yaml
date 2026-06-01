@@ -1,0 +1,4 @@
+interface:
+  display_name: "Advisor Outreach"
+  short_description: "Personalized advisor outreach emails"
+  default_prompt: "Use my CV, transcript, outreach template, and advisor list to rank advisors by research fit and generate personalized outreach emails."
