@@ -37,6 +37,19 @@ Produce outreach that sounds deliberately written for the specific advisor. Avoi
    - Optional subject lines, follow-up emails, and tracking table.
    - For format, read `references/output-schema.md`.
 
+## School-First Mode
+
+When the user wants recommendations by school, group candidates by university first, then tier advisors inside each school. Do not stop after finding one or two excellent fits at a school; continue searching the same school for adjacent faculty in medical image analysis, computer vision, pattern recognition, multimodal learning, brain imaging, AI for healthcare, weak/semi-supervised learning, segmentation, or trustworthy/robust AI that can connect to the user's CV.
+
+Use four tiers when the advisor pool is broad:
+
+- S: direct overlap with the user's current research, such as weak/semi-supervised medical image segmentation, 3D vessel/brain image segmentation, multimodal brain imaging, or medical foundation models.
+- A: strong adjacent fit, such as medical image analysis, AI-assisted diagnosis, multimodal medical data mining, or neuroimaging AI.
+- B: transferable CV/ML fit, such as computer vision, segmentation, representation learning, multimodal learning, graph learning, or robust learning without clear medical focus.
+- C: strategic backup, such as broad AI, data mining, pattern recognition, or biomedical engineering faculty where the fit is plausible but needs a careful email angle.
+
+For school-first searches and output, read `references/school-first-mode.md`.
+
 ## Email Generation Rules
 
 Use the user's template as a style reference, not as fixed text. Preserve accurate facts from the user's materials, but rewrite the email around the advisor's actual work.
@@ -65,4 +78,3 @@ When the user provides multiple advisors, create one table plus individual email
 - The subject line if the advisor's field differs.
 
 Flag missing advisor evidence instead of inventing specifics. If only names and schools are provided, first ask for permission to search or request advisor homepage/paper links.
-
